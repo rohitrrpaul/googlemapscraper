@@ -125,6 +125,11 @@ If you encounter issues:
 3. Verify all required packages are installed
 4. Ensure you have write permissions in the directory
 
+## Advanced Scraping Requirements
+
+For advanced scraping needs or custom scraping requirements, please contact:
+- Email: rohit.paul@excelloite.com
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
